@@ -1,0 +1,12 @@
+C:\Users\Uriel\Desktop\juego1\juego1\bin\Debug\juego1.exe.config
+C:\Users\Uriel\Desktop\juego1\juego1\bin\Debug\juego1.exe
+C:\Users\Uriel\Desktop\juego1\juego1\bin\Debug\juego1.pdb
+C:\Users\Uriel\Desktop\juego1\juego1\obj\Debug\juego1.csprojAssemblyReference.cache
+C:\Users\Uriel\Desktop\juego1\juego1\obj\Debug\juego1.Form1.resources
+C:\Users\Uriel\Desktop\juego1\juego1\obj\Debug\juego1.Form2.resources
+C:\Users\Uriel\Desktop\juego1\juego1\obj\Debug\juego1.Form3.resources
+C:\Users\Uriel\Desktop\juego1\juego1\obj\Debug\juego1.Properties.Resources.resources
+C:\Users\Uriel\Desktop\juego1\juego1\obj\Debug\juego1.csproj.GenerateResource.cache
+C:\Users\Uriel\Desktop\juego1\juego1\obj\Debug\juego1.csproj.CoreCompileInputs.cache
+C:\Users\Uriel\Desktop\juego1\juego1\obj\Debug\juego1.exe
+C:\Users\Uriel\Desktop\juego1\juego1\obj\Debug\juego1.pdb
